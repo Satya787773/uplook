@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/uplook/static/css/main.984936e5.css",
+    "main.js": "/uplook/static/js/main.800766c8.js",
+    "static/js/453.fe610411.chunk.js": "/uplook/static/js/453.fe610411.chunk.js",
+    "static/media/hero-img.png": "/uplook/static/media/hero-img.211790a508adb0801dd2.png",
+    "static/media/bg-banner-01.jpg": "/uplook/static/media/bg-banner-01.90d7617f59c7bf3bfeeb.jpg",
+    "index.html": "/uplook/index.html",
+    "main.984936e5.css.map": "/uplook/static/css/main.984936e5.css.map",
+    "main.800766c8.js.map": "/uplook/static/js/main.800766c8.js.map",
+    "453.fe610411.chunk.js.map": "/uplook/static/js/453.fe610411.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.984936e5.css",
+    "static/js/main.800766c8.js"
+  ]
+}
