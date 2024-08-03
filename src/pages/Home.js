@@ -1,9 +1,17 @@
-import React from 'react'
+import React, { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import CountUp from "react-countup";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 function Home() {
+  const [homedata, setMessage] = useState("");
+
+  useEffect(() => {
+    fetch("http://localhost:8000/homedata")
+      .then((res) => res.json())
+      .then((data) => setMessage(data.homedata));
+  }, []);
+
   const settings = {
     slidesToShow: 3,
     slidesToScroll: 1,
@@ -35,7 +43,7 @@ function Home() {
           <div className='row align-items-center'>
             <div className='col-md-8'>
               <h1>
-                Advance Your Career
+                {homedata}
                 <span> Become a registered tax preparer</span>
               </h1>
               <Link to='/' className="btn mt-3">Get Started Now</Link>
