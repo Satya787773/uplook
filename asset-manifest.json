@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/uplook/static/css/main.984936e5.css",
-    "main.js": "/uplook/static/js/main.800766c8.js",
-    "static/js/453.fe610411.chunk.js": "/uplook/static/js/453.fe610411.chunk.js",
-    "static/media/hero-img.png": "/uplook/static/media/hero-img.211790a508adb0801dd2.png",
-    "static/media/bg-banner-01.jpg": "/uplook/static/media/bg-banner-01.90d7617f59c7bf3bfeeb.jpg",
-    "index.html": "/uplook/index.html",
-    "main.984936e5.css.map": "/uplook/static/css/main.984936e5.css.map",
-    "main.800766c8.js.map": "/uplook/static/js/main.800766c8.js.map",
-    "453.fe610411.chunk.js.map": "/uplook/static/js/453.fe610411.chunk.js.map"
+    "main.css": "/uplook2/static/css/main.b7f5e31b.css",
+    "main.js": "/uplook2/static/js/main.b32f3340.js",
+    "static/js/453.fe610411.chunk.js": "/uplook2/static/js/453.fe610411.chunk.js",
+    "static/media/hero-img.png": "/uplook2/static/media/hero-img.211790a508adb0801dd2.png",
+    "static/media/bg-banner-01.jpg": "/uplook2/static/media/bg-banner-01.90d7617f59c7bf3bfeeb.jpg",
+    "index.html": "/uplook2/index.html",
+    "main.b7f5e31b.css.map": "/uplook2/static/css/main.b7f5e31b.css.map",
+    "main.b32f3340.js.map": "/uplook2/static/js/main.b32f3340.js.map",
+    "453.fe610411.chunk.js.map": "/uplook2/static/js/453.fe610411.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.984936e5.css",
-    "static/js/main.800766c8.js"
+    "static/css/main.b7f5e31b.css",
+    "static/js/main.b32f3340.js"
   ]
 }
